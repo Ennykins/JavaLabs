@@ -1,4 +1,4 @@
-public class Main
+public class Lab1
 {
     public static void main(String[] args) {
         System.out.println("\nOdd(10) is "+odd(10)+"\n\nTracing the function:\n");  //  \n is for printing a new line
